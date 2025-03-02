@@ -1,12 +1,19 @@
 Social Media Feed Ranking System
+
 🚀 A dynamic social media web application that ranks posts based on user engagement. Built with Node.js, Express.js, MySQL, and Sequelize, this system allows users to create posts, upload images, like, comment, and experience a feed ranking algorithm that prioritizes the most engaging content.
 
 📌 Features
+
 ✅ User Authentication – Secure registration and login system.
+
 ✅ Post Creation & Image Uploads – Users can create posts with text and images.
+
 ✅ Engagement-Based Feed Ranking – Posts are ranked based on the number of likes.
+
 ✅ Like & Comment System – Users can interact with posts via likes and comments.
+
 ✅ Edit & Delete Posts – Users can modify or remove their own posts.
+
 ✅ Responsive UI – Fully functional across different devices.
 
 🛠 Tech Stack:
